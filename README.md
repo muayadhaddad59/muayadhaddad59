@@ -42,19 +42,19 @@ console.log(softwareEngineer.connect());
 
 
 
-// Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
+// Visit my portfolio: [https://portfolio-2bfd6.web.app/](https://portfolio-2bfd6.web.app/)
 
 <table>
 <thead>
 <tr>
 <th>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=fernand3z&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=fernand3z&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" alt="fernand3z's GitHub stats" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=muayad&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=muayad&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" alt="muayad's GitHub stats" style="max-width: 100%;">
 </a>
 </th>
 <th>
 <a href="https://git.io/streak-stats" rel="nofollow">
-<img src="https://streak-stats.demolab.com?user=fernand3z&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
+<img src="https://streak-stats.demolab.com?user=muayad&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
 </a>
 </th>
 </tr>
@@ -62,4 +62,3 @@ console.log(softwareEngineer.connect());
 </table>
 
 
-# muayadhaddad59
