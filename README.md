@@ -16,7 +16,8 @@ const softwareEngineer = {
     master new technologies.
   `,
   skills: [
-    "Full-Stack Development",
+    "Mobile Development",
+    "DevOps",
     "Algorithms & Data Structures",
     "Clean Code Practices",
     "Software Design & Architecture",
